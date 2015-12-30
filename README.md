@@ -1,2 +1,3 @@
 # WCT-Signature
-# WCT email signature
+WCT email signature with 3 logos and links
+
